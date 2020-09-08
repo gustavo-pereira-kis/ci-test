@@ -8,6 +8,8 @@ public class CiApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(CiApplication.class, args);
+
+        // TODO adding useless comment
     }
 
 }
